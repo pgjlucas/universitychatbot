@@ -1,0 +1,155 @@
+G1|What are the courses for [Degree]?|As a [Degree], the following courses: [Course].|0
+G1|What options do I have for [Degree]?|As a [Degree], the following courses: [Course].|0
+G1|What courses can I take for [Degree]?|As a [Degree], the following courses: [Course].|0
+G1|What courses can I take to get a [Degree]?|As a [Degree], the following courses: [Course].|0
+G1|What courses can I take in order to get a [Degree]?|As a [Degree], the following courses: [Course].|0
+G1|What courses are part of [Degree]?|As a [Degree], the following courses: [Course].|0
+G1|Which courses are part of [Degree]?|As a [Degree], the following courses: [Course].|0
+G1|Which courses can I take to get a [Degree]?|As a [Degree], the following courses: [Course].|0
+G1|What [Level Number] courses do I have to take as a [Degree]?|As a [Degree], the following courses are [Level Number] level:[Course].|1
+G1|What are the [Grad_vs_Undergrad] courses for [Degree]?|As a [Degree], the following courses are [Grad_vs_Undergrad]:[Course].|1
+G1|What are the [Year Name] courses for [Degree]?|As a [Degree], the following courses are [Year Name]:[Course].|1
+G1|What are the [GE Area] courses for [Degree]?|The following courses are [GE Area]:[Course].|1
+G1|What [Department] courses can I take as a [Degree]?|,As a [Degree], the following courses are [Department]: [Course].|1
+G1|What [Department] courses are required as a [Degree]?|As a [Degree],the following courses are [Department]: [Course].|1
+G1|What courses are required from [Department] as a [Degree]?|The following courses are [Department]: [Course].|1
+G1|What are the [Fulfills] courses for [Degree]?|The following courses are [Fulfills]: [Course].|1
+G1|What are the [Level Number] courses for [Degree]?|The following courses are [Level Number]:[Course].|1
+G1|What courses are [Fulfills] for [Degree]?|The following courses are [Fulfills]: [Course].|1
+G1|What [Fulfills] electives can I take to get a [Degree]?|The following courses are [Fulfills]: [Course].|1
+G1|What [Fulfills] courses are required?|The following courses are [Fulfills]:[Course].|1
+G1|What [Fulfills] courses do I need?|The following courses are [Fulfills]: [Course].|1
+G1|Which [Department] courses are required for [Degree]?|The following courses are [Department]:[Course].|1
+G1|What are the [Fulfills][Degree] courses to get a statistics degree?|The following courses are [Fulfills]:[Course].|1
+G1|What [Upper_vs_Lower] [Department] electives count toward my [Degree] degree?|As a [Degree], the following courses are [Upper_vs_Lower] from [Department]:[Course].|2
+G1|What [Upper_vs_Lower] [Department] courses are required for [Degree]?|As a [Degree], the following courses are [Upper_vs_Lower] from [Department]:[Course].|2
+G1|Which [Department][Fulfills] electives count toward my degree?|As a [Degree], the following courses are [Fulfills] from [Department]:[Course].|2
+G1|What [Fulfills] courses are from [Department]?|As a [Degree], the following courses are [Fulfills] from [Department]:[Course].|2
+G1|What are the [Year Name] [Department] courses as a [Degree]?|As a [Degree], the following courses are [Year Name] from [Department]:[Course].|2
+G1|How many units are required to get [Degree]?|[Degree] has [Number of] units.|3
+G1|How many units have to be completed for [Degree]?|[Degree] has [Number of] units.|3
+G1|How many units are required for [Degree]?|[Degree] has [Number of] units.|3
+G1|How many units do I need to graduate as a [Degree]?|[Degree] has [Number of] units.|3
+G1|How many units are required to graduate as a [Degree]?|[Degree] has [Number of] units.|3
+G1|How many units are needed to graduate as a [Degree]?|[Degree] has [Number of] units.|3
+G1|How many units do I need to graduate with a [Degree]?|[Degree] has [Number of] units.|3
+G1|How many units are required to graduate with a [Degree]?|[Degree] has [Number of] units.|3
+G1|How many units are needed to graduate with a [Degree]?|[Degree] has [Number of] units.|3
+G1|How many units do I need to graduate with a [Degree]?|[Degree] has [Number of] units.|3
+G1|How many units are required to graduate with a [Degree]?|[Degree] has [Number of] units.|3
+G1|How many units are needed to graduate with a [Degree]?|[Degree] has [Number of] units.|3
+G1|How many units are required for [Level Number] as [Degree]?|As a [Degree],[Number of][Level Number] units are required.|4
+G1|How many units are [Upper_vs_Lower] for [Degree]?|As a [Degree],[Number_of][Upper_vs_Lower] units are required.|4
+G1|How many units of [Upper_vs_Lower] have to be completed for [Degree]?|As a [Degree],[Number_of][Upper_vs_Lower] units are required.|4
+G1|How many [Fulfills] units are required for [Degree]?|As a [Degree],[Number of][Fulfills] units are required for [Degree].|4
+G1|How many units have to be completed for [Fulfills]?|As a [Degree],[Number of][Fulfills] units are required for [Degree].|4
+G1|How many units are [Fulfills]?|As a [Degree],[Number of][Fulfills] units are required for [Degree].|4
+G1|Do I have any [Fulfills] as [Degree]?|As a [Degree],[Number of][Fulfills] units are required for [Degree].|4
+G1|How many units of [Fulfills] do I have as a [Degree]?|As a [Degree],[Number of][Fulfills] are required for [Degree].|4
+G1|How many units of [Fulfills] do I need to take as a [Degree]?|As a [Degree],[Number of][Fulfills] are required for [Degree].|4
+G1|How many [Fulfills] units do I get for [Degree]?|As a [Degree],[Number of][Fulfills] are required for [Degree].|4
+G1|How many units is [Course]?|[Course] is [Number of] units.|5
+G1|How many units does [Course] have?|[Course] is [Number of] units.|5
+G1|How many units does [Course] fulfill?|[Course] is [Number of] units.|5
+G1|How many units is [Course] worth?|[Course] is [Number of] units.|5
+G1|How many hours a week is [Course]?|[Course] is [Number of] units.|5
+G1|How much time is spent in [Course] per week?|[Course] is [Number of] units.|5
+G1|How many courses of [Department] do I have to complete as [Degree]?|As a [Degree], you must complete [Number of] [Department] courses.|6
+G1|How many courses of [Department] are required for a[Degree]?|As a [Degree], you must complete [Number of] [Department] courses.|6
+G1|How many [Department] courses can I take as a [Degree]?|As a [Degree], you must complete [Number of] [Department] courses.|6
+G1|How many [Department] courses are required for [Degree]?|As a [Degree], you must complete [Number of] [Department] courses.|6
+G1|How many [Department] courses are required as [Degree]?|As [Degree],[Department] has [Number of] courses.|6
+G1|How many [Department] courses do I have to take as a [Degree]?|As a [Degree], you must complete [Number of] [Department] courses.|6
+G1|At best, how long last [Degree]?|As a [Degree],[Number of] years are usually necessary to graduate from [Degree], if you take 16 units per quarter and no classes in the summer.|7
+G1|How many years are necessary to graduate from [Degree]?|As a [Degree],[Number of] years are usually necessary to graduate from [Degree], if you take 16 units per quarter and no classes in the summer.|7
+G1|Is it possible to graduate as a [Degree] in [Number of] years?|As a [Degree],[Number of] years are usually necessary to graduate from [Degree], if you take 16 units per quarter and no classes in the summer.|7
+G1|Can I graduate as a [Degree] in [Number of] years?|As a [Degree],[Number of] years are usually necessary to graduate from [Degree], if you take 16 units per quarter and no classes in the summer.|7
+G1|From which departments are the courses offered?|The courses offered are from the following departments:[Department].|8
+G1|Do I have to take courses from other departments?| The courses offered are from the following departments:[Department].|8
+G1|What are the departments offering courses as a [Degree]?|The courses offered are from the following departments:[Department].|8
+G1|Which departments offer courses as a [Degree]|The courses offered are from the following departments:[Department].|8
+G1|Are there any prerequisites for [Course]?|[Course] has the following prerequisites:[Course].|9
+G1|Does [Course] have any prerequisites?|[Course] has the following prerequisites:[Course].|9
+G1|Are there more than one prerequisites for [Course]?|[Course] has the following prerequisites:[Course].|9
+G1|What classes do I have to take before [Course]?|[Course] has the following prerequisites:[Course].|9
+G1|What classes do I need for [Course]?|[Course]?|[Course] has the following prerequisites:[Course].|9
+G1|What are [Course]’s prerequisites?|[Course] has the following prerequisites:[Course].|9
+G1|What are the prerequisites for [Course]?|[Course] has the following prerequisites:[Course].|9
+G1|What are the prerequisites does [Course] have?|[Course] has the following prerequisites:[Course].|9
+G1|What is required before taking [Course]?|[Course] has the following prerequisites:[Course].|9
+G1|What is needed before taking [Course]?|[Course] has the following prerequisites:[Course].|9
+G1|How many prerequisites does [Course] have?|[Course] has the following prerequisites:[Course].|10
+G1|Does [Course] have a lot of prerequisites?|[Course] has the following prerequisites:[Course].|10
+G1|Am I qualified to take [Course]?|[Course] has the following prerequisites:[Course].|10
+G1|Am I allowed to take [Course]?|[Course] has the following prerequisites:[Course].|10
+G1|Who can take [Course]?|[Course] has the following prerequisites:[Course].|10
+G1|Is [Course] a prerequisite for [Course]?|[Course] has the following prerequisites:[Course].|10
+G1|Do I have to take [Course] before taking [Course]?|[Course] has the following prerequisites:[Course].|10
+G1|Can I take [Course] before taking [Course]?|[Course] has the following prerequisites:[Course].|10
+G1|Can I take [Course] as a prerequisite for [Course]?|[Course] has the following prerequisites:[Course].|10
+G1|Is [Course] required to take [Course]?|[Course] has the following prerequisites:[Course].|10
+G1|What courses do I have to take in [Year Name]?|The following courses are [Year Name]:[Course].|1
+G1|How many units should I have taken by the start of my [Nth] year?|The information is available at the following address: https://flowcharts.calpoly.edu/downloads/mymap/19-20.76STATBSU.pdf.|11
+G1|How many units should I have taken by the end of my [Nth] year?| The information is available at the following address: https://flowcharts.calpoly.edu/downloads/mymap/19-20.76STATBSU.pdf.|11
+G1|How many units should I have taken by [Quarter] quarter of my [Nth] year?|The information is available at the following address: https://flowcharts.calpoly.edu/downloads/mymap/19-20.76STATBSU.pdf.|11
+G1|How many units should I take my [Nth] year?|The information is available at the following address: https://flowcharts.calpoly.edu/downloads/mymap/19-20.76STATBSU.pdf.|11
+G1|What is the least amount of Major units I should take in a quarter?| The information is available at the following address: https://flowcharts.calpoly.edu/downloads/mymap/19-20.76STATBSU.pdf.|11
+G1|On average, how many units should I take per quarter as a [Degree]?| The information is available at the following address: https://flowcharts.calpoly.edu/downloads/mymap/19-20.76STATBSU.pdf.|11
+G1|Am I behind if I am a [Nth] year with [Units] units completed?|The information is available at the following address: https://flowcharts.calpoly.edu/downloads/mymap/19-20.76STATBSU.pdf.|11
+G1|Which quarter is it recommended to take [Course]?|The information is available at the following address: https://flowcharts.calpoly.edu/downloads/mymap/19-20.76STATBSU.pdf.|11
+G1|When should I take [Course]?|The information is available at the following address: https://flowcharts.calpoly.edu/downloads/mymap/19-20.76STATBSU.pdf.|11
+G1|Which year should I take [Course]?|The information is available at the following address: https://flowcharts.calpoly.edu/downloads/mymap/19-20.76STATBSU.pdf.|11
+G1|What is the least amount of units suggested to take in a quarter?|The information is available at the following address: https://flowcharts.calpoly.edu/downloads/mymap/19-20.76STATBSU.pdf.|11
+G1|What is the most amount of units suggested to take in a quarter?| The information is available at the following address: https://flowcharts.calpoly.edu/downloads/mymap/19-20.76STATBSU.pdf.|11
+G1|Which courses should I take in the [Quarter] of my [Year Name]?|The information is available at the following address: https://flowcharts.calpoly.edu/downloads/mymap/19-20.76STATBSU.pdf.|11
+G1|Is [Course] a [Fulfills] for [Degree]?|As a [Degree],[Course] is a [Fulfills].|12
+G1|Can I take [Course] as a [Fulfills] for [Degree]?|As a [Degree],[Course] is a [Fulfills].|12
+G1|Does [Degree] accept [Course] as a [Fulfills]|As a [Degree],[Course] is a [Fulfills].|12
+G1|Is [Course] a valid [Fulfills] to get a [Degree]?|As a [Degree],[Course] is a [Fulfills].|12
+G1|Can [Course] be a [Fulfills] course for [Degree]?|As a [Degree],[Course] is a [Fulfills].|12
+G1|Is [Course] a [Fulfills] course for [Degree]?|As a [Degree],[Course] is a [Fulfills].|12
+G1|How many lectures does [Course] have?|[Course] has [Number of] lectures.|13
+G1|How many lectures make up [Course]?|[Course] has [Number of] lectures.|13
+G1|Are there many lectures for [Course]?|[Course] has [Number of] lectures.|13
+G1|Is there more than one lecture for [Course]?|[Course] has [Number of] lectures.|13
+G1|Is there more than one lecture for [Course]?|[Course] has [Number of] lectures.|13
+G1|Does [Course] have many lectures?|[Course] has [Number of] lectures.|13
+G1|How many labs does [Course] have?|[Course] has [Number of] labs.|14
+G1|Does [Course] have a labs?|[Course] has [Number of] labs.|14
+G1|Does [Course] have any labs?|[Course] has [Number of] labs.|14
+G1|Is there a lab for [Course]?|[Course] has [Number of] labs.|14
+G1|How many times does the lab for [Course] meet?|[Course] has [Number of] labs.|14
+G1|How many times a week does [Course] meet for lab?|[Course] has [Number of] labs.|14
+G1|Does [Course] have a lab?|[Course] has [Number of] labs.|14
+G1|Do I have to take a lab with [Course]?|[Course] has [Number of] labs.|14
+G1|What are the [Fulfills] areas required for [Degree]?|As a [Degree], the [Fulfills] area are:[GE Area].|15
+G1|What are the [Fulfills] areas I have to take for a [Degree]?|As a [Degree], the [Fulfills] area are:[GE Area].|15
+G1|What are the [Fulfills] areas I have to to get a [Degree]?|As a [Degree], the [Fulfills] area are:[GE Area].|15
+G1|Which [Fulfills] area do I have to take as a [Degree]?|As a [Degree], the [Fulfills] area are:[GE Area].|15
+G1|What [Fulfills] areas are required for [Degree]?|As a [Degree], the [Fulfills] area are:[GE Area].|15
+G1|Are there any [Fulfills] areas required for [Degree]?|As a [Degree], the [Fulfills] area are:[GE Area].|15
+G1|How many [Fulfills] areas have to be completed for [Degree]?|[Degree] has [Number of] [Fulfills] areas.|16
+G1|How many [Fulfills] areas do I have to take to get a [Degree]?|[Degree] has [Number of] [Fulfills] areas.|16
+G1|How many different [Fulfills] areas are required for [Degree]?|[Degree] has [Number of] [Fulfills] areas.|16
+G1|How many [Fulfills] areas are required for [Degree]?|[Degree] has [Number of] [Fulfills] areas.|16
+G1|How many [Fulfills] areas are required to get a [Degree]?|[Degree] has [Number of] [Fulfills] areas.|16
+G1|What is the minimum GPA to get [Degree]?|As a [Degree], the minimum GPA required is [GPA].|17
+G1|What GPA do I need to get [Degree]?|As a [Degree], the minimum GPA required is [GPA].|17
+G1|What GPA do I need to graduate with a [Degree]?|As a [Degree], the minimum GPA required is [GPA].|17
+G1|Can I graduate with a [GPA] GPA?|As a [Degree], the minimum GPA required is [GPA].|17
+G1|When is [Course] offered?|[Course] is offered in: [Quarter].|18
+G1|What terms are [Course] offered?|[Course] is offered in: [Quarter].|18
+G1|Which terms are [Course] offered?|[Course] is offered in: [Quarter].|18
+G1|When is [Course] available?| [Course] is offered in: [Quarter].|18
+G1|When can I take [Course]?| [Course] is offered in: [Quarter].|18
+G1|Is [Course] offered during [Quarter]?|[Course] is offered in: [Quarter].|18
+G1|Can I take [Course] in the [Quarter]?|[Course] is offered in: [Quarter].|18
+G1|How many [Fulfills] units are required at the [Level Number] for [Degree]?|[Number of] [Level Number] [Fulfills] units are required for [Degree].|19
+G1|How many [Fulfills] units are required from [Department] as a [Degree]?|[Number of] [Department] [Fulfills] units are required for [Degree].|19
+G1|Do I have to satisfy the [Requirement] requirement as a [Degree]?| As a [Degree], the following requirements have to be satisfied: [Fulfills].|20
+G1|Do I have to satisfy the [Requirement] requirement to get a [Degree]?| As a [Degree], the following requirements have to be satisfied: [Fulfills].|20
+G1|What [Requirement] requirements do I have to satisfy as a [Degree]?| As a [Degree], the following requirements have to be satisfied: [Fulfills].|20
+Is there a [Requirement] requirement for the [Degree]?| As a [Degree], the following requirements have to be satisfied: [Fulfills].|20
+G1|How many non-[Department] courses do I have to take as a [Degree]?|[Number of] non-[Department] courses have to be taken.|21
+G1|How many non-[Department] electives can I take as a [Degree]?|[Number of] non-[Department] courses have to be taken.|21
+G1|Do I have to take any non-[Department] courses to get a [Degree]?|[Number of] non-[Department] courses have to be taken.|21

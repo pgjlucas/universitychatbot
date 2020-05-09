@@ -1,0 +1,10 @@
+[Degree] : [Mm]ajor|[Mm]inor
+[Course] : ([A-Z]+ \d{3})
+[Quarter] : [Ss]ummer|[Ff]all|[Ww]inter|[Ss]pring
+[Fulfills] : ([Tt]ech[(nical)]? [Ee]lectives)|(\b[Gg][Ee]s?\b|([Gg]eneral [Ee]lectives?))|([Ss]upport \b([Cc]ourses|[Cc]lasses)\b)|([Rr]equired \b([Cc]ourses|[Cc]lasses)\b)
+[Department] : (?!.*([0-9]+))\b[A-Z]{2,4}\b
+[GE Area] : ([Cc]ommunications)|([Ss]cience and [Mm]athematics)|([Aa]rts and [Hh]umanities)|([Ss]ociety and the [Ii]ndividual)|([Tt]echnology)
+[Year Name] : [Ff]reshman|(1st year)|[Ss]ophomore|(2nd year)|[Jj]unior|(3rd year)|[Ss]enior|(\dth year)
+[Level Number] : (?!.*([A-Z]{2-4} ))[1-5]00
+[Grad_vs_Undergrad] : \b[Uu]ndergrad[(uate)]*\b
+[Upper_vs_Lower] : [Uu]pper division|[Ll]ower division
