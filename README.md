@@ -2,15 +2,11 @@
 
 Development of a complete chatbot able to answer questions about statistics major, minor and curricula at California Polytechnic States University.
 
-## General Info
+#### Libraries & Tools
+nltk, wordnet, scikit-learn, beautifulsoup, regex, sql
 
-#### Team
-4 persons
-#### Role
-Designed and developed the feature extractor, the classifier and the answer builder. Coordinated the project.
-
-## Bot Architecture
-* User interface (Slack)
+### Bot Architecture
+* User interface
 * Data Sustainer
 * Parser
 * Feature extractor
