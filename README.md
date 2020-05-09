@@ -2,8 +2,8 @@
 
 Development of a complete chatbot able to answer questions about statistics major, minor and curricula at California Polytechnic States University.
 
-#### Libraries & Tools
-nltk, wordnet, scikit-learn, beautifulsoup, regex, sql
+### Libraries & Tools
+• NLTK • Wordnet • scikit-learn • BeautifulSoup • Regex • SQL
 
 ### Bot Architecture
 * User interface
