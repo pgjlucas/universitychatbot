@@ -1,5 +1,6 @@
 # University Chatbot
 
+### Scope
 Development of a complete chatbot able to answer questions about statistics major, minor and curricula at California Polytechnic States University.
 
 ### Libraries & Tools
