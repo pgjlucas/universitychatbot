@@ -7,7 +7,7 @@ Development of a complete chatbot able to answer questions about statistics majo
 - NLTK • Wordnet • scikit-learn • BeautifulSoup • Regex • SQL
 
 ## Database
-The database used to trainthe classifier is homemade: 
+The database used to train the classifier was homemade: 
 - 150 questions
 - 25 labelled answers.
 
